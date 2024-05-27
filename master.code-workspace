@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "med-master",
+			"path": "../../Downloads/med-master/med-master"
+		},
+		{
+			"name": "web.groom",
+			"path": "../../groom/web.groom"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web.groom"
+	}
+}
